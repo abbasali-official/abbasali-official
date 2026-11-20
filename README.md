@@ -1,117 +1,195 @@
+<!-- Profile repository: AbbasAli-official/AbbasAli-official (must be PUBLIC) -->
+
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Abbas Ali — Artificial Intelligence Graduate and AI/ML Engineer" />
 
-  <a href="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+Artificial+Intelligence+Graduate;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Exploring+Generative+AI+and+intelligent+applications">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+Artificial+Intelligence+Graduate;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Exploring+Generative+AI+and+intelligent+applications" alt="Animated introduction: AI/ML Engineer, exploring machine learning, computer vision, and generative AI" />
-  </a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:00B8D9&height=220&section=header&text=Abbas%20Ali&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Artificial%20Intelligence%20Graduate%20%C2%B7%20Aspiring%20AI%20Researcher&descSize=18&descAlignY=58" alt="Abbas Ali - Artificial Intelligence Graduate" />
 
-  <br />
-  <a href="https://github.com/abbasali-official"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" /></a>
-  <a href="https://www.linkedin.com/in/abbasali-aiengineer"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:AbbasAli.Eng26@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abbas" /></a>
+<a href="https://github.com/AbbasAli-official">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=1200&color=00B8D9&center=true&vCenter=true&width=720&height=45&lines=Artificial+Intelligence+Graduate+%7C+BS+AI%2C+CGPA+3.59%2F4.00;Generative+AI+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning;Seeking+a+Fully+Funded+Master%27s+in+AI+%E2%80%94+Fall+2027+Intake" alt="Animated tagline" />
+</a>
 
-  <br /><br />
-  <i>Turning ideas in artificial intelligence into useful, human-centered applications.</i>
+<br/>
+
+<img src="https://img.shields.io/badge/Based%20in-Skardu%2C%20Pakistan-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="Location" />
+<img src="https://img.shields.io/badge/Degree-BS%20Artificial%20Intelligence-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="Degree" />
+<img src="https://img.shields.io/badge/Languages-Balti%20%C2%B7%20Urdu%20%C2%B7%20English-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="Languages" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:00B8D9&height=2" width="100%" alt="divider" />
+
 </div>
 
----
+<br/>
 
-## `01` / Profile
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=420&height=45&lines=About+Me" alt="About Me" />
+</div>
 
-Hello, I'm **Abbas Ali** — an Artificial Intelligence graduate from **The Islamia University of Bahawalpur (IUB), Pakistan**, with a **CGPA of 3.59/4.00**.
+<p align="center">
+I am an Artificial Intelligence graduate from <b>The Islamia University of Bahawalpur</b> (BS AI, 2026, CGPA <b>3.59/4.00</b>) with a research-oriented focus on machine learning, deep learning, computer vision, and generative AI.
+My final year project, an AI-powered medical assistant for conversational health-related queries, gave me hands-on experience building user-facing generative AI systems from interface to backend.
+I am now applying for a <b>fully funded Master's in Artificial Intelligence (Fall 2027 intake)</b> to deepen my research training and contribute to meaningful work in intelligent systems.
+</p>
 
-I work across machine learning, deep learning, computer vision, and generative AI. I'm especially interested in building practical intelligent applications and exploring AI research with real-world impact.
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Research+Interests" alt="Research Interests" />
+</div>
+
+<div align="center">
+
+| Artificial Intelligence | Generative AI | Machine Learning |
+|:---:|:---:|:---:|
+| **Computer Vision** | **Deep Learning** | **Intelligent Systems** |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Technical+Expertise" alt="Technical Expertise" />
+</div>
+
+<div align="center">
+
+| Domain | Tools & Technologies |
+|:--|:--|
+| **Programming** | <img src="https://skillicons.dev/icons?i=py,html,css&perline=8" alt="Python, HTML, CSS" /> &nbsp; ![SQL](https://img.shields.io/badge/SQL-0B1F3A?style=flat-square&logo=postgresql&logoColor=00B8D9) |
+| **Machine & Deep Learning** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" alt="PyTorch, TensorFlow, scikit-learn" /> &nbsp; ![Keras](https://img.shields.io/badge/Keras-0B1F3A?style=flat-square&logo=keras&logoColor=00B8D9) |
+| **Computer Vision** | <img src="https://skillicons.dev/icons?i=opencv&perline=8" alt="OpenCV" /> &nbsp; ![CNNs](https://img.shields.io/badge/CNNs-0B1F3A?style=flat-square) ![Image Classification](https://img.shields.io/badge/Image%20Classification-0B1F3A?style=flat-square) |
+| **Data Science** | <img src="https://skillicons.dev/icons?i=pandas,numpy&perline=8" alt="Pandas, NumPy" /> &nbsp; ![Matplotlib](https://img.shields.io/badge/Matplotlib-0B1F3A?style=flat-square) ![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-0B1F3A?style=flat-square) |
+| **Web Development** | <img src="https://skillicons.dev/icons?i=react,ts&perline=8" alt="React, TypeScript" /> &nbsp; ![Supabase](https://img.shields.io/badge/Supabase-0B1F3A?style=flat-square&logo=supabase&logoColor=00B8D9) |
+| **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" alt="Git, GitHub, VS Code" /> &nbsp; ![Jupyter](https://img.shields.io/badge/Jupyter-0B1F3A?style=flat-square&logo=jupyter&logoColor=00B8D9) ![Colab](https://img.shields.io/badge/Google%20Colab-0B1F3A?style=flat-square&logo=googlecolab&logoColor=00B8D9) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=560&height=45&lines=Education+%26+Certifications" alt="Education and Certifications" />
+</div>
+
+<div align="center">
+
+| Qualification | Institution | Period |
+|:--|:--|:--:|
+| **BS in Artificial Intelligence** (CGPA 3.59 / 4.00) | The Islamia University of Bahawalpur | 2022 – 2026 |
+| **Machine Learning with Python** | IBM / Coursera | 2025 |
+| **Python for Data Science and AI** | Coursera | Feb 2025 |
+| **Artificial Intelligence on Microsoft Azure** | Microsoft | Mar 2025 |
+| **Google AI Essentials** | Google | Apr 2025 |
+| **Data Analysis with Python** | IBM / Cognitive Class | Dec 2024 |
+
+<sub><b>Core coursework:</b> Artificial Intelligence · Machine Learning · Deep Learning · Computer Vision · Natural Language Processing · Neural Networks · Data Structures & Algorithms</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=480&height=45&lines=Honors+%26+Awards" alt="Honors and Awards" />
+</div>
+
+<div align="center">
+
+| Recognition | Details |
+|:--|:--|
+| **Prime Minister's Laptop Scheme** | Government of Pakistan, selected on academic merit |
+| **Third Position, University Class Project** | Awarded for a team project, Automatic Hand-Wash System |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=560&height=45&lines=Leadership+%26+Community" alt="Leadership and Community" />
+</div>
+
+<div align="center">
+
+**Baltikhar Students Organisation (BSO)** · Skardu, Pakistan
+
+| Role | Period | Focus |
+|:--|:--:|:--|
+| **Publication Head** | Dec 2025 – Present | Leading organizational announcements, educational materials, and communications |
+| **Media Secretary** | Dec 2024 – Dec 2025 | Managing digital communications and social media for student engagement |
+| **Education Secretary** | Mar 2023 – Dec 2024 | Coordinating academic activities, workshops, and educational programmes |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=480&height=45&lines=Current+Focus" alt="Current Focus" />
+</div>
+
+<div align="center">
 
 | | |
 |:--|:--|
-| **Based in** | Skardu, Gilgit-Baltistan, Pakistan |
-| **Education** | BS Artificial Intelligence · IUB · March 2022 – March 2026 |
-| **Current goal** | Pursuing a fully funded MS in Artificial Intelligence for the 2027 intake |
-| **Open to** | AI research, academic collaboration, and meaningful technical projects |
+| **Objective** | A fully funded Master's in Artificial Intelligence, Fall 2027 intake |
+| **Strengthening** | Research foundations in deep learning, computer vision, and generative AI |
+| **Building** | A personal portfolio website to present my academic and technical work |
 
-## `02` / Focus & Toolkit
-
-<div align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Machine%20Learning-0F766E?style=flat-square" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/FOCUS-Deep%20Learning-155E75?style=flat-square" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/FOCUS-Computer%20Vision-1D4ED8?style=flat-square" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/FOCUS-Generative%20AI-6D28D9?style=flat-square" alt="Generative AI" />
 </div>
 
-| Discipline | Tools & Technologies |
-|:--|:--|
-| **Programming** | Python · SQL · TypeScript · HTML · CSS |
-| **Machine Learning** | Scikit-learn |
-| **Deep Learning** | PyTorch · TensorFlow · Keras |
-| **Computer Vision** | OpenCV · Convolutional Neural Networks |
-| **Generative AI** | LLMs · Retrieval-Augmented Generation · Hugging Face Transformers · LangChain |
-| **Data Science** | NumPy · Pandas · Matplotlib |
-| **Platforms & tools** | Supabase · Git · GitHub · Jupyter · Google Colab · VS Code |
-
-## `03` / Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✦ AI Medical Assistant</h3>
-      <p>A conversational AI platform designed to make health information easier to access, with document-based interactions.</p>
-      <p><strong>Built with</strong><br />TypeScript · Supabase · LLM integration · RAG</p>
-      <a href="https://github.com/abbasali-official?tab=repositories">Explore repositories ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✦ Veridex AI</h3>
-      <p>A machine-learning project exploring automated identification of potentially misleading or false news content.</p>
-      <p><strong>Focus</strong><br />Fake-news detection · Text classification</p>
-      <a href="https://github.com/abbasali-official?tab=repositories">Explore repositories ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>✦ Computer Vision Experiments</h3>
-      <p>Hands-on projects covering image processing, face recognition, and barcode detection.</p>
-      <p><strong>Built with</strong> · Python · OpenCV · Jupyter Notebook</p>
-      <a href="https://github.com/abbasali-official?tab=repositories">Explore repositories ↗</a>
-    </td>
-  </tr>
-</table>
-
-## `04` / Education & Credentials
-
-**The Islamia University of Bahawalpur (IUB)** · Pakistan  
-**BS Artificial Intelligence** · March 2022 – March 2026 · **CGPA: 3.59 / 4.00**
-
-Relevant academic areas: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Data Science.
-
-**Certifications**
-
-- Machine Learning with Python — IBM / Coursera, 2025
-- AI on Microsoft Azure — Microsoft, 2025
-- Google AI Essentials — Google, 2025
-- Python for Data Science and AI — Coursera, 2025
-- Data Analysis with Python — IBM Cognitive Class, 2024
-
-## `05` / Highlights
-
-- Selected for the **Prime Minister's Laptop Scheme 2025** on academic merit.
-- Earned **third position** among university class projects for an **Automatic Hand-Wash System**.
-
-## `06` / Leadership
-
-**Baltikhar Students Organisation (BSO)**
-
-| Role | Term |
-|:--|:--|
-| Education Secretary | March 2023 – December 2024 |
-| Media Secretary | December 2024 – December 2025 |
-| Publication Head | December 2025 – December 2026 |
-
-## `07` / Say hello
+<br/>
 
 <div align="center">
-  <p>Interested in applied AI, research, or building something useful? I'd be glad to connect.</p>
-  <a href="https://github.com/abbasali-official"><img src="https://img.shields.io/badge/GitHub-abbasali--official-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/abbasali-aiengineer"><img src="https://img.shields.io/badge/LinkedIn-Abbas%20Ali-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="mailto:AbbasAli.Eng26@gmail.com"><img src="https://img.shields.io/badge/Email-AbbasAli.Eng26%40gmail.com-DB4437?style=flat-square&logo=gmail&logoColor=white" alt="Email Abbas" /></a>
-  <br /><br />
-  <sub>© 2026 Abbas Ali · Built with curiosity and a commitment to practical AI.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=480&height=45&lines=GitHub+Analytics" alt="GitHub Analytics" />
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbbasAli-official&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B8D9&text_color=C9D1D9&icon_color=14B8A6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AbbasAli-official&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155&icon_color=00B8D9">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AbbasAli-official&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155&icon_color=00B8D9" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAli-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B8D9&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAli-official&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAli-official&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155" height="165">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbbasAli-official&hide_border=true&background=0D1117&stroke=30363D&ring=00B8D9&fire=14B8A6&currStreakLabel=00B8D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AbbasAli-official&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=00B8D9&fire=0B1F3A&currStreakLabel=0B1F3A&sideLabels=334155&currStreakNum=334155&sideNums=334155&dates=64748B">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=AbbasAli-official&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=00B8D9&fire=0B1F3A&currStreakLabel=0B1F3A&sideLabels=334155&currStreakNum=334155&sideNums=334155&dates=64748B" height="165">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbbasAli-official&bg_color=0D1117&color=C9D1D9&line=00B8D9&point=FFFFFF&area=true&area_color=00B8D9&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbbasAli-official&bg_color=FFFFFF&color=334155&line=00B8D9&point=0B1F3A&area=true&area_color=00B8D9&hide_border=true">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbbasAli-official&bg_color=FFFFFF&color=334155&line=00B8D9&point=0B1F3A&area=true&area_color=00B8D9&hide_border=true" width="95%">
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=420&height=45&lines=Let%27s+Connect" alt="Let's Connect" />
+</div>
+
+<div align="center">
+
+<a href="mailto:AbbasAli.Eng26@gmail.com"><img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=00B8D9" alt="Email" /></a>
+<a href="https://linkedin.com/in/abbasali-aiengineer"><img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00B8D9" alt="LinkedIn" /></a>
+<a href="https://github.com/AbbasAli-official"><img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=00B8D9" alt="GitHub" /></a>
+
+<br/><br/>
+
+<i>Open to research collaboration, academic opportunities, and conversations about artificial intelligence.</i>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,100:0B1F3A&height=110&section=footer&animation=fadeIn" alt="footer" />
+
 </div>
