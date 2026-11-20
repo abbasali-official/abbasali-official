@@ -15,17 +15,25 @@
 <br/>
 
 <div align="center">
-  <p>
-    Artificial Intelligence
-    &nbsp;·&nbsp; Machine Learning
-    &nbsp;·&nbsp; Deep Learning
-  </p>
-  <p>
-    Computer Vision
-    &nbsp;·&nbsp; Generative AI
-    &nbsp;·&nbsp; Intelligent Systems
-  </p>
+
+<strong>ARTIFICIAL INTELLIGENCE</strong>
+<br/><br/>
+
+<strong>01.</strong> Machine Learning
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<strong>02.</strong> Deep Learning
+<br/><br/>
+
+<strong>03.</strong> Computer Vision
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<strong>04.</strong> Generative AI
+<br/><br/>
+
+<strong>05.</strong> Intelligent Systems
+
 </div>
+
+<br/>
 <br/>
 
 <div align="center">
