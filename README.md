@@ -8,31 +8,24 @@
 <p align="left">
   I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islamia University of Bahawalpur (IUB), Pakistan</strong>, with a <strong>CGPA of 3.59/4.00</strong>. My academic foundation includes Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision. My technical interests span <strong>Machine Learning, Deep Learning, Computer Vision, and Generative AI</strong>, with a focus on developing deeper technical expertise and exploring practical AI applications. Alongside my academic journey, I have contributed to the <strong>Baltikhar Students Organisation (BSO)</strong> in leadership roles as Education Secretary and Media Secretary, and currently serve as Publication Head. These responsibilities have strengthened my experience in student coordination, organisational communication, and community engagement. I am currently focused on pursuing <strong>postgraduate studies and research in Artificial Intelligence</strong>, with the long-term objective of contributing to practical AI solutions through advanced study and research.
 </p>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Research+Interests" alt="Research Interests" />
 </div>
 
 <br/>
 
-<table align="center" width="85%">
-  <tr>
-    <td width="50%" valign="top">
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-
-    </td>
-    <td width="50%" valign="top">
-
-- Computer Vision
-- Generative AI
-- Intelligent Systems
-
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p>
+    Artificial Intelligence
+    &nbsp;·&nbsp; Machine Learning
+    &nbsp;·&nbsp; Deep Learning
+  </p>
+  <p>
+    Computer Vision
+    &nbsp;·&nbsp; Generative AI
+    &nbsp;·&nbsp; Intelligent Systems
+  </p>
+</div>
 <br/>
 
 <div align="center">
