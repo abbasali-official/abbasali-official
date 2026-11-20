@@ -13,12 +13,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Research+Interests" alt="Research Interests" />
 </div>
 
+<br/>
+
 <div align="center">
-
-| Artificial Intelligence | Generative AI | Machine Learning |
-|:---:|:---:|:---:|
-| **Computer Vision** | **Deep Learning** | **Intelligent Systems** |
-
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        Artificial Intelligence
+      </td>
+      <td align="center" width="33%">
+        Machine Learning
+      </td>
+      <td align="center" width="33%">
+        Deep Learning
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        Computer Vision
+      </td>
+      <td align="center" width="33%">
+        Generative AI
+      </td>
+      <td align="center" width="33%">
+        Intelligent Systems
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
