@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-I am an Artificial Intelligence graduate from <b>The Islamia University of Bahawalpur</b> (BS AI, 2026, CGPA <b>3.59/4.00</b>) with a research-oriented focus on machine learning, deep learning, computer vision, and generative AI.
+I am an Artificial Intelligence graduate from <b>The Islamia University of Bahawalpur</b> (BS AI, with CGPA <b>3.59/4.00</b>) with a research-oriented focus on machine learning, deep learning, computer vision, and generative AI.
 My final year project, an AI-powered medical assistant for conversational health-related queries, gave me hands-on experience building user-facing generative AI systems from interface to backend.
 </p>
 
