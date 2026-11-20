@@ -1,6 +1,6 @@
 <!-- Profile repository: AbbasAli-official/AbbasAli-official (must be PUBLIC) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=420&height=45&lines=About+ Me " alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Profile" alt="Profile" />
 </div>
 
 <br/>
