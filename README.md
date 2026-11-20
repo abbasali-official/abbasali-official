@@ -24,20 +24,23 @@ I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islam
 
 
 
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Technical+Skills" alt="Technical Skills" />
 </div>
+
+<br/>
 
 <div align="center">
 
 | Domain | Tools & Technologies |
 |:--|:--|
-| **Programming** | <img src="https://skillicons.dev/icons?i=py,html,css&perline=8" alt="Python, HTML, CSS" />; ![SQL](https://img.shields.io/badge/SQL-0B1F3A?style=flat-square&logo=postgresql&logoColor=00B8D9) |
-| **Machine & Deep Learning** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" alt="PyTorch, TensorFlow, scikit-learn" />; ![Keras](https://img.shields.io/badge/Keras-0B1F3A?style=flat-square&logo=keras&logoColor=00B8D9) |
-| **Computer Vision** | <img src="https://skillicons.dev/icons?i=opencv&perline=8" alt="OpenCV" /> &nbsp; ![CNNs](https://img.shields.io/badge/CNNs-0B1F3A?style=flat-square) ![Image Classification](https://img.shields.io/badge/Image%20Classification-0B1F3A?style=flat-square) |
-| **Data Science** | <img src="https://skillicons.dev/icons?i=pandas,numpy&perline=8" alt="Pandas, NumPy" /> &nbsp; ![Matplotlib](https://img.shields.io/badge/Matplotlib-0B1F3A?style=flat-square) ![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-0B1F3A?style=flat-square) |
-| **Web Development** | <img src="https://skillicons.dev/icons?i=react,ts&perline=8" alt="React, TypeScript" /> &nbsp; ![Supabase](https://img.shields.io/badge/Supabase-0B1F3A?style=flat-square&logo=supabase&logoColor=00B8D9) |
-| **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" alt="Git, GitHub, VS Code" /> &nbsp; ![Jupyter](https://img.shields.io/badge/Jupyter-0B1F3A?style=flat-square&logo=jupyter&logoColor=00B8D9) ![Colab](https://img.shields.io/badge/Google%20Colab-0B1F3A?style=flat-square&logo=googlecolab&logoColor=00B8D9) |
+| **Programming** | <img src="https://cdn.simpleicons.org/python/3776AB" height="20" alt="Python" /> Python &nbsp; <img src="https://cdn.simpleicons.org/html5/E34F26" height="20" alt="HTML5" /> HTML &nbsp; <img src="https://cdn.simpleicons.org/css3/1572B6" height="20" alt="CSS3" /> CSS &nbsp; SQL |
+| **Machine & Deep Learning** | <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" alt="PyTorch" /> PyTorch &nbsp; <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="20" alt="TensorFlow" /> TensorFlow &nbsp; <img src="https://cdn.simpleicons.org/keras/D00000" height="20" alt="Keras" /> Keras &nbsp; Scikit-learn |
+| **Computer Vision** | <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="20" alt="OpenCV" /> OpenCV &nbsp; CNNs &nbsp; Image Classification |
+| **Data Science** | <img src="https://cdn.simpleicons.org/pandas/150458" height="20" alt="Pandas" /> Pandas &nbsp; <img src="https://cdn.simpleicons.org/numpy/013243" height="20" alt="NumPy" /> NumPy &nbsp; <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="20" alt="Matplotlib" /> Matplotlib &nbsp; EDA |
+| **Web Development** | <img src="https://cdn.simpleicons.org/react/61DAFB" height="20" alt="React" /> React &nbsp; <img src="https://cdn.simpleicons.org/typescript/3178C6" height="20" alt="TypeScript" /> TypeScript &nbsp; <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="20" alt="Supabase" /> Supabase |
+| **Development Tools** | <img src="https://cdn.simpleicons.org/git/F05032" height="20" alt="Git" /> Git &nbsp; <img src="https://cdn.simpleicons.org/github/181717" height="20" alt="GitHub" /> GitHub &nbsp; <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="20" alt="VS Code" /> VS Code &nbsp; <img src="https://cdn.simpleicons.org/jupyter/F37626" height="20" alt="Jupyter" /> Jupyter &nbsp; <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="20" alt="Google Colab" /> Colab |
 
 </div>
 
