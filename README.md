@@ -4,11 +4,9 @@
 </div>
 
 <br/>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=420&height=45&lines=About+Me" alt="About Me" />
-</div>
-<p align="center">
-  I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islamia University of Bahawalpur (IUB), Pakistan</strong>, with a <strong>CGPA of 3.59/4.00</strong>. My academic background has provided me with a foundation in <strong>Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision</strong>. My technical interests include <strong>Machine Learning, Deep Learning, Computer Vision, and Generative AI</strong>, with a focus on strengthening my technical expertise and exploring practical applications of AI. Beyond academics, I have been actively involved with the <strong>Baltikhar Students Organisation (BSO)</strong>, serving as <strong>Education Secretary</strong> and <strong>Media Secretary</strong>, and currently as <strong>Publication Head</strong>. These leadership roles have helped me develop skills in <strong>student coordination, organisational communication, and community engagement</strong>. I am currently focused on pursuing <strong>postgraduate studies and research in Artificial Intelligence</strong>, with the aim of advancing my technical knowledge and contributing to the development of practical AI solutions.
+
+<p align="left">
+  I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islamia University of Bahawalpur (IUB), Pakistan</strong>, with a <strong>CGPA of 3.59/4.00</strong>. My academic foundation includes Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision. My technical interests span <strong>Machine Learning, Deep Learning, Computer Vision, and Generative AI</strong>, with a focus on developing deeper technical expertise and exploring practical AI applications. Alongside my academic journey, I have contributed to the <strong>Baltikhar Students Organisation (BSO)</strong> in leadership roles as Education Secretary and Media Secretary, and currently serve as Publication Head. These responsibilities have strengthened my experience in student coordination, organisational communication, and community engagement. I am currently focused on pursuing <strong>postgraduate studies and research in Artificial Intelligence</strong>, with the long-term objective of contributing to practical AI solutions through advanced study and research.
 </p>
 
 <div align="center">
