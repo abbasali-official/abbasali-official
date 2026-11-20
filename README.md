@@ -1,15 +1,4 @@
 <!-- Profile repository: AbbasAli-official/AbbasAli-official (must be PUBLIC) -->
-
-<div align="center">
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:00B8D9&height=2" width="100%" alt="divider" />
-
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=420&height=45&lines=About+Me" alt="About Me" />
 </div>
@@ -69,8 +58,6 @@ My final year project, an AI-powered medical assistant for conversational health
 | **Google AI Essentials** | Google | Apr 2025 |
 | **Data Analysis with Python** | IBM / Cognitive Class | Dec 2024 |
 
-<sub><b>Core coursework:</b> Artificial Intelligence · Machine Learning · Deep Learning · Computer Vision · Natural Language Processing · Neural Networks · Data Structures & Algorithms</sub>
-
 </div>
 
 <br/>
@@ -106,11 +93,6 @@ My final year project, an AI-powered medical assistant for conversational health
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=480&height=45&lines=Current+Focus" alt="Current Focus" />
-</div>
 </div>
 
 <br/>
