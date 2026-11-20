@@ -2,18 +2,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:00B8D9&height=220&section=header&text=Abbas%20Ali&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Artificial%20Intelligence%20Graduate%20%C2%B7%20Aspiring%20AI%20Researcher&descSize=18&descAlignY=58" alt="Abbas Ali - Artificial Intelligence Graduate" />
-
-<a href="https://github.com/AbbasAli-official">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=1200&color=00B8D9&center=true&vCenter=true&width=720&height=45&lines=Artificial+Intelligence+Graduate+AI/ML Engineer;Generative+AI+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning;" alt="Animated tagline" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Based%20in-Skardu%2C%20Pakistan-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="Location" />
-<img src="https://img.shields.io/badge/Degree-BS%20Artificial%20Intelligence-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="Degree" />
-<img src="https://img.shields.io/badge/Languages-Balti%20%C2%B7%20Urdu%20%C2%B7%20English-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="Languages" />
-
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:00B8D9&height=2" width="100%" alt="divider" />
