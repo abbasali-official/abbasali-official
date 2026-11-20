@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:00B8D9&height=220&section=header&text=Abbas%20Ali&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Artificial%20Intelligence%20Graduate%20%C2%B7%20Aspiring%20AI%20Researcher&descSize=18&descAlignY=58" alt="Abbas Ali - Artificial Intelligence Graduate" />
 
 <a href="https://github.com/AbbasAli-official">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=1200&color=00B8D9&center=true&vCenter=true&width=720&height=45&lines=Artificial+Intelligence+Graduate+%7C+BS+AI%2C+CGPA+3.59%2F4.00;Generative+AI+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning;" alt="Animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=1200&color=00B8D9&center=true&vCenter=true&width=720&height=45&lines=Artificial+Intelligence+Graduate+AI/ML Engineer;Generative+AI+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning;" alt="Animated tagline" />
 </a>
 
 <br/>
@@ -123,15 +123,6 @@ My final year project, an AI-powered medical assistant for conversational health
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=480&height=45&lines=Current+Focus" alt="Current Focus" />
 </div>
-
-<div align="center">
-
-| | |
-|:--|:--|
-| **Objective** | A fully funded Master's in Artificial Intelligence, Fall 2027 intake |
-| **Strengthening** | Research foundations in deep learning, computer vision, and generative AI |
-| **Building** | A personal portfolio website to present my academic and technical work |
-
 </div>
 
 <br/>
