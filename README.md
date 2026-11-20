@@ -4,8 +4,13 @@
 </div>
 
 <p align="center">
-I am an Artificial Intelligence graduate from <b>The Islamia University of Bahawalpur</b> (BS AI, with CGPA <b>3.59/4.00</b>) with a research-oriented focus on machine learning, deep learning, computer vision, and generative AI.
-My final year project, an AI-powered medical assistant for conversational health-related queries, gave me hands-on experience building user-facing generative AI systems from interface to backend.
+I am an Artificial Intelligence graduate from **The Islamia University of Bahawalpur (IUB), Pakistan**, with a CGPA of **3.59/4.00**. My academic background has provided me with a foundation in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.
+
+My technical interests include **Machine Learning, Deep Learning, Computer Vision, and Generative AI**. I am keen to strengthen my understanding of these fields and explore how AI techniques can be applied to address practical problems.
+
+Beyond academics, I have been actively involved with the **Baltikhar Students Organisation (BSO)**, serving as Education Secretary and Media Secretary, and currently as Publication Head. These roles have helped me develop experience in student coordination, organisational communication, and community engagement.
+
+I am now focused on pursuing postgraduate studies and research in Artificial Intelligence, with the aim of building deeper technical expertise and contributing to the development of practical AI solutions.
 </p>
 
 <br/>
