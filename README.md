@@ -150,6 +150,5 @@ My final year project, an AI-powered medical assistant for conversational health
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,100:0B1F3A&height=110&section=footer&animation=fadeIn" alt="footer" />
 
 </div>
