@@ -3,13 +3,50 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=420&height=45&lines=About+Me" alt="About Me" />
 </div>
 <p align="center">
-I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islamia University of Bahawalpur (IUB), Pakistan</strong>, with a <strong>CGPA of 3.59/4.00</strong>. My academic background has provided me with a foundation in <strong>Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision</strong>.
 
-My technical interests include <strong>Machine Learning, Deep Learning, Computer Vision, and Generative AI</strong>. I am keen to strengthen my understanding of these fields and explore how AI techniques can be applied to address practical problems.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=420&height=45&lines=About+Me" alt="About Me" />
+</div>
 
-Beyond academics, I have been actively involved with the <strong>Baltikhar Students Organisation (BSO)</strong>, serving as <strong>Education Secretary</strong> and <strong>Media Secretary</strong>, and currently as <strong>Publication Head</strong>. These roles have helped me develop experience in <strong>student coordination, organisational communication, and community engagement</strong>.
+<br/>
 
-I am now focused on pursuing <strong>postgraduate studies and research in Artificial Intelligence</strong>, with the aim of building deeper technical expertise and contributing to the development of practical AI solutions.
+<p align="center">
+  I am an <strong>Artificial Intelligence graduate</strong> from
+  <strong>The Islamia University of Bahawalpur (IUB), Pakistan</strong>,
+  with a <strong>CGPA of 3.59/4.00</strong>. My academic background has
+  provided me with a foundation in <strong>Artificial Intelligence,
+  Machine Learning, Deep Learning, and Computer Vision</strong>.
+</p>
+
+<br/>
+
+<p align="center">
+  My technical interests include <strong>Machine Learning, Deep Learning,
+  Computer Vision, and Generative AI</strong>. I am keen to strengthen my
+  understanding of these fields and explore how AI techniques can be
+  applied to address practical problems.
+</p>
+
+<br/>
+
+<p align="center">
+  Beyond academics, I have been actively involved with the
+  <strong>Baltikhar Students Organisation (BSO)</strong>, serving as
+  <strong>Education Secretary</strong> and <strong>Media Secretary</strong>,
+  and currently as <strong>Publication Head</strong>. These roles have
+  helped me develop experience in <strong>student coordination,
+  organisational communication, and community engagement</strong>.
+</p>
+
+<br/>
+
+<p align="center">
+  I am now focused on pursuing <strong>postgraduate studies and research
+  in Artificial Intelligence</strong>, with the aim of building deeper
+  technical expertise and contributing to the development of practical
+  AI solutions.
+</p>
+
 </p>
 
 </p>
