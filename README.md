@@ -106,21 +106,30 @@ I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islam
 
 <br/>
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=420&height=45&lines=Let%27s+Connect" alt="Let's Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=420&height=45&lines=Let's+Connect" alt="Let's Connect" />
 </div>
-
-
-<div align="center">
-<i>Open to research collaboration, academic opportunities, and conversations about artificial intelligence.</i>
-<a href="mailto:AbbasAli.Eng26@gmail.com"><img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=00B8D9" alt="Email" /></a>
-<a href="https://linkedin.com/in/abbasali-aiengineer"><img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00B8D9" alt="LinkedIn" /></a>
-<a href="https://github.com/AbbasAli-official"><img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=00B8D9" alt="GitHub" /></a>
-
-<br/><br/>
-
 
 <br/>
 
+<p align="center">
+  Open to research collaborations, academic opportunities,
+  and professional discussions in Artificial Intelligence.
+</p>
 
+<br/>
+
+<div align="center">
+  <a href="mailto:AbbasAli.Eng26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=00B8D9" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/abbasali-aiengineer">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00B8D9" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AbbasAli-official">
+    <img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=00B8D9" alt="GitHub" />
+  </a>
 </div>
