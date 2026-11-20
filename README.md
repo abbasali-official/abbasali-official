@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:00B8D9&height=220&section=header&text=Abbas%20Ali&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Artificial%20Intelligence%20Graduate%20%C2%B7%20Aspiring%20AI%20Researcher&descSize=18&descAlignY=58" alt="Abbas Ali - Artificial Intelligence Graduate" />
 
 <a href="https://github.com/AbbasAli-official">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=1200&color=00B8D9&center=true&vCenter=true&width=720&height=45&lines=Artificial+Intelligence+Graduate+%7C+BS+AI%2C+CGPA+3.59%2F4.00;Generative+AI+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning;Seeking+a+Fully+Funded+Master%27s+in+AI+%E2%80%94+Fall+2027+Intake" alt="Animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=1200&color=00B8D9&center=true&vCenter=true&width=720&height=45&lines=Artificial+Intelligence+Graduate+%7C+BS+AI%2C+CGPA+3.59%2F4.00;Generative+AI+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning;" alt="Animated tagline" />
 </a>
 
 <br/>
@@ -29,7 +29,6 @@
 <p align="center">
 I am an Artificial Intelligence graduate from <b>The Islamia University of Bahawalpur</b> (BS AI, 2026, CGPA <b>3.59/4.00</b>) with a research-oriented focus on machine learning, deep learning, computer vision, and generative AI.
 My final year project, an AI-powered medical assistant for conversational health-related queries, gave me hands-on experience building user-facing generative AI systems from interface to backend.
-I am now applying for a <b>fully funded Master's in Artificial Intelligence (Fall 2027 intake)</b> to deepen my research training and contribute to meaningful work in intelligent systems.
 </p>
 
 <br/>
