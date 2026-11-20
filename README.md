@@ -23,53 +23,53 @@ I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islam
 
 
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Technical+Skills" alt="Technical Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Technical+Expertise" alt="Technical Expertise" />
 </div>
 
 <br/>
 
 <div align="left">
 
-### 01 / PROGRAMMING
-<img src="https://skillicons.dev/icons?i=py,html,css&theme=dark" alt="Python, HTML, CSS" />
-&nbsp; <img src="https://img.shields.io/badge/SQL-0B1F3A?style=flat-square&logo=postgresql&logoColor=00B8D9" alt="SQL" />
+<sub>01 &nbsp; / &nbsp; PROGRAMMING LANGUAGES</sub>
 
----
+**Python** &nbsp; · &nbsp; **SQL** &nbsp; · &nbsp; HTML &nbsp; · &nbsp; CSS
 
-### 02 / MACHINE LEARNING & DEEP LEARNING
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, Scikit-learn" />
-&nbsp; <img src="https://img.shields.io/badge/Keras-0B1F3A?style=flat-square&logo=keras&logoColor=00B8D9" alt="Keras" />
+<br/>
 
----
+<sub>02 &nbsp; / &nbsp; MACHINE LEARNING & DEEP LEARNING</sub>
 
-### 03 / COMPUTER VISION
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" />
-&nbsp; <img src="https://img.shields.io/badge/CNNs-0B1F3A?style=flat-square" alt="CNNs" />
-&nbsp; <img src="https://img.shields.io/badge/Image_Classification-0B1F3A?style=flat-square" alt="Image Classification" />
+**PyTorch** &nbsp; · &nbsp; **TensorFlow** &nbsp; · &nbsp; Keras &nbsp; · &nbsp; Scikit-learn
 
----
+<br/>
 
-### 04 / DATA SCIENCE
-<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" alt="Pandas, NumPy" />
-&nbsp; <img src="https://img.shields.io/badge/Matplotlib-0B1F3A?style=flat-square" alt="Matplotlib" />
-&nbsp; <img src="https://img.shields.io/badge/EDA-0B1F3A?style=flat-square" alt="Exploratory Data Analysis" />
+<sub>03 &nbsp; / &nbsp; COMPUTER VISION</sub>
 
----
+**OpenCV** &nbsp; · &nbsp; CNNs &nbsp; · &nbsp; Image Classification
 
-### 05 / WEB DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=react,ts&theme=dark" alt="React, TypeScript" />
-&nbsp; <img src="https://img.shields.io/badge/Supabase-0B1F3A?style=flat-square&logo=supabase&logoColor=00B8D9" alt="Supabase" />
+<br/>
 
----
+<sub>04 &nbsp; / &nbsp; DATA SCIENCE & ANALYTICS</sub>
 
-### 06 / DEVELOPMENT TOOLS
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Git, GitHub, VS Code, Jupyter" />
-&nbsp; <img src="https://img.shields.io/badge/Google_Colab-0B1F3A?style=flat-square&logo=googlecolab&logoColor=00B8D9" alt="Google Colab" />
+**Pandas** &nbsp; · &nbsp; NumPy &nbsp; · &nbsp; Matplotlib &nbsp; · &nbsp; Exploratory Data Analysis
+
+<br/>
+
+<sub>05 &nbsp; / &nbsp; WEB DEVELOPMENT</sub>
+
+**React** &nbsp; · &nbsp; TypeScript &nbsp; · &nbsp; Supabase
+
+<br/>
+
+<sub>06 &nbsp; / &nbsp; DEVELOPMENT ENVIRONMENT & TOOLS</sub>
+
+**Git** &nbsp; · &nbsp; GitHub &nbsp; · &nbsp; VS Code &nbsp; · &nbsp; Jupyter Notebook &nbsp; · &nbsp; Google Colab
 
 </div>
 
 <br/>
+
 
 
 <br/>
