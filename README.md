@@ -90,34 +90,9 @@
 
 </div>
 
-</div>
-
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=480&height=45&lines=GitHub+Analytics" alt="GitHub Analytics" />
-</div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbbasAli-official&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B8D9&text_color=C9D1D9&icon_color=14B8A6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AbbasAli-official&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155&icon_color=00B8D9">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AbbasAli-official&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155&icon_color=00B8D9" height="165">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAli-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B8D9&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAli-official&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAli-official&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155" height="165">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbbasAli-official&hide_border=true&background=0D1117&stroke=30363D&ring=00B8D9&fire=14B8A6&currStreakLabel=00B8D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AbbasAli-official&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=00B8D9&fire=0B1F3A&currStreakLabel=0B1F3A&sideLabels=334155&currStreakNum=334155&sideNums=334155&dates=64748B">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=AbbasAli-official&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=00B8D9&fire=0B1F3A&currStreakLabel=0B1F3A&sideLabels=334155&currStreakNum=334155&sideNums=334155&dates=64748B" height="165">
-</picture>
 
 <br/>
 
