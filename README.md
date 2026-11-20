@@ -53,14 +53,14 @@ I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islam
 
 <div align="center">
 
-| Qualification | Institution | Period |
-|:--|:--|:--:|
-| **BS in Artificial Intelligence** (CGPA 3.59 / 4.00) | The Islamia University of Bahawalpur | 2022 – 2026 |
-| **Machine Learning with Python** | IBM / Coursera | 2025 |
-| **Python for Data Science and AI** | Coursera | Feb 2025 |
-| **Artificial Intelligence on Microsoft Azure** | Microsoft | Mar 2025 |
-| **Google AI Essentials** | Google | Apr 2025 |
-| **Data Analysis with Python** | IBM / Cognitive Class | Dec 2024 |
+| Qualification | Institution |
+|:--|:--|
+| **BS in Artificial Intelligence** (CGPA 3.59 / 4.00) | The Islamia University of Bahawalpur |
+| **Machine Learning with Python** | IBM / Coursera |
+| **Python for Data Science and AI** | Coursera |
+| **Artificial Intelligence on Microsoft Azure** | Microsoft |
+| **Google AI Essentials** | Google |
+| **Data Analysis with Python** | IBM / Cognitive Class |
 
 </div>
 
