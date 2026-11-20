@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Abbas Ali, Artificial Intelligence Graduate</title>
+  <desc id="desc">Professional profile banner for Abbas Ali, AI and ML Engineer.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081321"/>
+      <stop offset="0.58" stop-color="#10243B"/>
+      <stop offset="1" stop-color="#123A55"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#B6D4E5" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="1200" height="320" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle cx="1030" cy="140" r="205" fill="#38BDF8" opacity=".055"/>
+    <circle cx="1030" cy="140" r="145" fill="none" stroke="#67E8F9" stroke-opacity=".24"/>
+    <circle cx="1030" cy="140" r="105" fill="none" stroke="#818CF8" stroke-opacity=".28" stroke-dasharray="3 9"/>
+    <g stroke="#67E8F9" stroke-opacity=".5" stroke-width="1.4" fill="none">
+      <path d="M880 95L960 65L1030 105L1110 68L1145 125L1080 195L1000 220L930 175L880 95"/>
+      <path d="M960 65L970 145L1030 105L1080 195M970 145L930 175M970 145L1000 220M1110 68L1080 195"/>
+    </g>
+    <g fill="#67E8F9">
+      <circle cx="880" cy="95" r="4"/><circle cx="960" cy="65" r="4"/>
+      <circle cx="1030" cy="105" r="5"/><circle cx="1110" cy="68" r="4"/>
+      <circle cx="1145" cy="125" r="4"/><circle cx="1080" cy="195" r="4"/>
+      <circle cx="1000" cy="220" r="4"/><circle cx="930" cy="175" r="4"/>
+      <circle cx="970" cy="145" r="5"/>
+    </g>
+    <rect x="76" y="54" width="4" height="190" rx="2" fill="url(#accent)"/>
+    <text x="105" y="78" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3.2">ARTIFICIAL INTELLIGENCE GRADUATE</text>
+    <text x="101" y="151" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-1.8">Abbas Ali</text>
+    <text x="105" y="190" fill="#DCE8F2" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600">AI / ML Engineer</text>
+    <text x="105" y="222" fill="#AFC3D5" font-family="Arial, Helvetica, sans-serif" font-size="15">Machine Learning  ·  Deep Learning  ·  Computer Vision  ·  Generative AI</text>
+    <text x="105" y="260" fill="#8FA9BE" font-family="Arial, Helvetica, sans-serif" font-size="13">Skardu, Gilgit-Baltistan, Pakistan</text>
+    <path d="M105 283H1095" stroke="#A5C2D8" stroke-opacity=".22"/>
+    <text x="105" y="303" fill="#7896AD" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">RESEARCH INTERESTS  /  INTELLIGENT APPLICATIONS  /  PRACTICAL AI</text>
+  </g>
+</svg>
