@@ -12,28 +12,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Research+Interests" alt="Research Interests" />
 </div>
 
-<br/>
-
 <div align="center">
 
-<strong>ARTIFICIAL INTELLIGENCE</strong>
-<br/><br/>
+| Artificial Intelligence | Generative AI | Machine Learning |
+|:---:|:---:|:---:|
+| **Computer Vision** | **Deep Learning** | **Intelligent Systems** |
 
-<strong>01.</strong> Machine Learning
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<strong>02.</strong> Deep Learning
-<br/><br/>
-
-<strong>03.</strong> Computer Vision
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<strong>04.</strong> Generative AI
-<br/><br/>
-
-<strong>05.</strong> Intelligent Systems
-
-</div>
-
-<br/>
+</div> 
 <br/>
 
 <div align="center">
