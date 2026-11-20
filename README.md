@@ -15,33 +15,24 @@
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        Artificial Intelligence
-      </td>
-      <td align="center" width="33%">
-        Machine Learning
-      </td>
-      <td align="center" width="33%">
-        Deep Learning
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        Computer Vision
-      </td>
-      <td align="center" width="33%">
-        Generative AI
-      </td>
-      <td align="center" width="33%">
-        Intelligent Systems
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="85%">
+  <tr>
+    <td width="50%" valign="top">
 
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+
+    </td>
+    <td width="50%" valign="top">
+
+- Computer Vision
+- Generative AI
+- Intelligent Systems
+
+    </td>
+  </tr>
+</table>
 <br/>
 
 <div align="center">
