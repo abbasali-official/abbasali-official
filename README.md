@@ -112,19 +112,11 @@ Alongside my studies, I have served the <strong>Baltikhar Students Organisation 
 
 <br/>
 
-<!-- ═══════════════ LEADERSHIP & COMMUNITY Engagement ═══════════════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=560&height=45&lines=Leadership+%26+Community+ Engagement" alt="Leadership & Community Engagement" />
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="40%" alt=""/>
+</div> <br/> <!-- ═══════════════ LEADERSHIP & COMMUNITY ═══════════════ --> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=560&height=45&lines=Leadership+%26+Community" alt="Leadership and Community" /> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="40%" alt=""/>
 
 <br/><br/>
 
-**Baltikhar Students Organisation (BSO)**
-<br/>
-<sub>📍 Skardu, Gilgit-Baltistan, Pakistan</sub>
-
-<br/>
+Baltikhar Students Organisation (BSO) <br/> <sub>📍 Skardu, Gilgit-Baltistan, Pakistan</sub>
 
 | Position | Tenure | Key Responsibilities |
 |:--|:--:|:--|
