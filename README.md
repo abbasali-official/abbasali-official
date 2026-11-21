@@ -1,7 +1,9 @@
 <!-- Profile repository: AbbasAli-official/AbbasAli-official (must be PUBLIC) -->
 
 <!-- ═══════════════ HERO / HEADER ═══════════════ -->
-![Abbas Ali - AI Graduate](https://raw.githubusercontent.com/AbbasAli-official/AbbasAli-official/main/hero.svg)
+![Abbas Ali - AI Graduate](https://raw.githubusercontent.com/AbbasAli-official/AbbasAli-official/main/hero.svg) <br/>
+
+<br/>
 <!-- ═══════════════ ACADEMIC PROFILE ═══════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Academic+Profile" alt="Academic Profile" />
