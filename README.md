@@ -3,17 +3,11 @@
 <!-- ═══════════════ HERO / HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&section=header&text=Abbas%20Ali&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Artificial%20Intelligence%20Graduate%20%7C%20Aspiring%20Researcher&descSize=18&descAlignY=58&animation=fadeIn" alt="Abbas Ali - Artificial Intelligence Graduate" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&section=header&text=Abbas%20Ali&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Artificial%20Intelligence%20Graduate%20%7C%20=58&animation=fadeIn" alt="Abbas Ali - Artificial Intelligence Graduate" width="100%"/>
 
 <a href="https://github.com/AbbasAli-official">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1200&color=00B8D9&center=true&vCenter=true&width=640&height=40&lines=Machine+Learning+%C2%B7+Deep+Learning;Computer+Vision+%C2%B7+Generative+AI;Seeking+Postgraduate+Studies+%26+Research+in+AI" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1200&color=00B8D9&center=true&vCenter=true&width=640&height=40&lines= Artificial+Intelligence;Machine+Learning+%C2%B7+Deep+Learning;Computer+Vision+%C2%B7+Generative+AI" alt="Typing animation" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/CGPA-3.59%20%2F%204.00-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="CGPA 3.59/4.00"/>
-<img src="https://img.shields.io/badge/BS-Artificial%20Intelligence-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="BS Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/IUB-Bahawalpur%2C%20Pakistan-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="IUB Bahawalpur"/>
 
 </div>
 
