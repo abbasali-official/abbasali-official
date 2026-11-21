@@ -1,7 +1,12 @@
 <!-- Profile repository: AbbasAli-official/AbbasAli-official (must be PUBLIC) -->
 
 <!-- ═══════════════ HERO / HEADER ═══════════════ -->
-
+<div align="center">
+  <img src="assets/hero.svg" alt="Abbas Ali - AI Graduate" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AbbasAli-official/AbbasAli-official/main/assets/hero.svg" alt="Abbas Ali - AI Graduate" width="100%"/>
+</div>
 <br/>
 
 <!-- ═══════════════ ACADEMIC PROFILE ═══════════════ -->
