@@ -2,7 +2,7 @@
 
 <!-- ═══════════════ HERO / HEADER ═══════════════ -->
 <div align="center">
-  <img src="assets/hero.svg" alt="Abbas Ali - AI Graduate" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AbbasAli-official/AbbasAli-official/main/assets/hero.svg" alt="Abbas Ali - AI Graduate" width="100%"/>
 </div>
 <!-- ═══════════════ ACADEMIC PROFILE ═══════════════ -->
 <div align="center">
