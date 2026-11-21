@@ -85,19 +85,26 @@ I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islam
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=560&height=45&lines=Leadership+%26+Community" alt="Leadership and Community" />
 </div>
 
+
 <div align="center">
 
-**Baltikhar Students Organisation (BSO)** · Skardu, Pakistan
+### Leadership & Community Engagement
 
-| Role | | Focus |
-|:--|:--|
-| **Publication Head** | Leading organizational announcements, educational materials, and communications |
-| **Media Secretary** | Managing digital communications and social media for student engagement |
-| **Education Secretary** | Coordinating academic activities, workshops, and educational programmes |
+**Baltikhar Students Organisation (BSO)**  
+Skardu, Gilgit-Baltistan, Pakistan
+
+<br/>
+
+| Position | Tenure | Key Responsibilities |
+|:--|:--:|:--|
+| **Publication Head** | Dec 2025 – Present | Leading publications, organizational communications, and educational content. |
+| **Media Secretary** | Dec 2024 – Dec 2025 | Managing digital media, social media communications, and student engagement. |
+| **Education Secretary** | Mar 2023 – Dec 2024 | Coordinating educational initiatives, academic activities, and student development programmes. |
 
 </div>
 
 <br/>
+
 
 
 
