@@ -91,9 +91,9 @@ I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islam
 
 | Role | Period | Focus |
 |:--|:--:|:--|
-| **Publication Head** | Dec 2025 – Present | Leading organizational announcements, educational materials, and communications |
-| **Media Secretary** | Dec 2024 – Dec 2025 | Managing digital communications and social media for student engagement |
-| **Education Secretary** | Mar 2023 – Dec 2024 | Coordinating academic activities, workshops, and educational programmes |
+| **Publication Head** | Leading organizational announcements, educational materials, and communications |
+| **Media Secretary** | Managing digital communications and social media for student engagement |
+| **Education Secretary** | Coordinating academic activities, workshops, and educational programmes |
 
 </div>
 
