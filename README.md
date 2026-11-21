@@ -95,11 +95,11 @@ Skardu, Gilgit-Baltistan, Pakistan
 
 <br/>
 
-| Position | Tenure | Key Responsibilities |
-|:--|:--:|:--|
-| **Publication Head** | Dec 2025 – Present | Leading publications, organizational communications, and educational content. |
-| **Media Secretary** | Dec 2024 – Dec 2025 | Managing digital media, social media communications, and student engagement. |
-| **Education Secretary** | Mar 2023 – Dec 2024 | Coordinating educational initiatives, academic activities, and student development programmes. |
+| Position | | Key Responsibilities |
+|:--||:--|
+| **Publication Head** | | Leading publications, organizational communications, and educational content. |
+| **Media Secretary** |  | Managing digital media, social media communications, and student engagement. |
+| **Education Secretary** |  | Coordinating educational initiatives, academic activities, and student development programmes. |
 
 </div>
 
