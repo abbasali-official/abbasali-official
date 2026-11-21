@@ -70,7 +70,6 @@
     @keyframes rise    { from { opacity:0; transform:translateY(14px) } to { opacity:1; transform:none } }
     @keyframes grow    { to { transform:scaleX(1) } }
 
-    /* typing: clip width (tw) + cursor position (cu), one phrase every 5s of a 20s loop */
     @keyframes tw0{0%{width:0;animation-timing-function:steps(23,end)} 9%{width:391px} 18%{width:391px;animation-timing-function:steps(23,end)} 23%{width:0} 100%{width:0}}
     @keyframes cu0{0%{opacity:1;transform:translateX(0);animation-timing-function:steps(23,end)} 9%{opacity:1;transform:translateX(391px)} 18%{opacity:1;transform:translateX(391px);animation-timing-function:steps(23,end)} 23%{opacity:1;transform:translateX(0)} 23.5%{opacity:0;transform:translateX(0)} 100%{opacity:0}}
     @keyframes tw1{0%{width:0} 25%{width:0;animation-timing-function:steps(16,end)} 34%{width:272px} 43%{width:272px;animation-timing-function:steps(16,end)} 48%{width:0} 100%{width:0}}
@@ -94,7 +93,6 @@
     <circle cx="930" cy="200" r="300" fill="url(#glow)" class="aura"/>
     <circle cx="90" cy="430" r="240" fill="url(#glow)" opacity=".45"/>
 
-    <!-- AI theme: neural mesh, rings, chip, concept icons -->
     <g class="mesh">
       <line x1="690" y1="60" x2="740" y2="150"/>
       <line x1="690" y1="60" x2="820" y2="40"/>
@@ -133,7 +131,6 @@
     <circle class="ring r1" cx="930" cy="200" r="172" stroke-width="1.6"/>
     <circle class="ring r2" cx="930" cy="200" r="222" stroke-width="1.2"/>
 
-    <!-- chip circuit traces -->
     <g>
       <polyline class="trace" style="animation-delay:-0.0s" points="846,152 818,152 802,136"/>
       <polyline class="trace" style="animation-delay:-0.3s" points="1014,152 1042,152 1058,136"/>
@@ -157,7 +154,6 @@
       <polyline class="trace" style="animation-delay:-3.6s" points="978,284 978,306 992,320"/>
     </g>
 
-    <!-- chip pins -->
     <g class="pins">
       <line x1="846" y1="152" x2="860" y2="152"/>
       <line x1="1000" y1="152" x2="1014" y2="152"/>
@@ -181,18 +177,15 @@
       <line x1="978" y1="270" x2="978" y2="284"/>
     </g>
 
-    <!-- chip body -->
     <rect class="die" x="860" y="130" width="140" height="140" rx="20"/>
     <rect class="die2" x="872" y="142" width="116" height="116" rx="12"/>
     <text class="ai" x="930" y="220" text-anchor="middle">AI</text>
 
-    <!-- concept icons: eye (vision), sparkle (generative), graph (ML), layers (deep learning) -->
     <g transform="translate(1036,64)"><g class="badge" style="animation-delay:-0.0s"><circle r="27" class="bd"/><path d="M-14 0Q0 -12 14 0Q0 12 -14 0Z" class="ic"/><circle r="4.2" class="icf"/></g></g>
     <g transform="translate(1089,264)"><g class="badge" style="animation-delay:-1.8s"><circle r="27" class="bd"/><path d="M0 -13C2 -4 4 -2 13 0C4 2 2 4 0 13C-2 4 -4 2 -13 0C-4 -2 -2 -4 0 -13Z" class="icf"/></g></g>
     <g transform="translate(824,336)"><g class="badge" style="animation-delay:-3.6s"><circle r="27" class="bd"/><g class="ic"><line x1="-10" y1="8" x2="0" y2="-9"/><line x1="0" y1="-9" x2="10" y2="8"/><line x1="-10" y1="8" x2="10" y2="8"/></g><circle cx="-10" cy="8" r="3.2" class="icf"/><circle cx="0" cy="-9" r="3.2" class="icf"/><circle cx="10" cy="8" r="3.2" class="icf"/></g></g>
     <g transform="translate(784,109)"><g class="badge" style="animation-delay:-5.4s"><circle r="27" class="bd"/><path d="M-13 -5L0 -12L13 -5L0 2Z" class="ic"/><path d="M-13 2L0 9L13 2" class="ic"/><path d="M-13 8L0 15L13 8" class="ic" opacity=".6"/></g></g>
 
-    <!-- Text: 1) name  2) subtitle  3) typing -->
     <g class="rise d1"><text class="name" x="66" y="150">Abbas Ali</text></g>
     <rect class="bar" x="70" y="174" width="120" height="4" rx="2" fill="url(#accent)"/>
     <g class="rise d2"><text class="sub" x="70" y="226">AI GRADUATE</text></g>
@@ -211,7 +204,6 @@
     <rect x=".5" y=".5" width="1199" height="399" rx="19.5" fill="none" stroke="#00B8D9" stroke-opacity=".25"/>
   </g>
 </svg>
-
 <br/>
 
 <!-- ═══════════════ ACADEMIC PROFILE ═══════════════ -->
