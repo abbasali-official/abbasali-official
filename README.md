@@ -1,32 +1,65 @@
 <!-- Profile repository: AbbasAli-official/AbbasAli-official (must be PUBLIC) -->
+
+<!-- ═══════════════ HERO / HEADER ═══════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&section=header&text=Abbas%20Ali&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Artificial%20Intelligence%20Graduate%20%7C%20Aspiring%20Researcher&descSize=18&descAlignY=58&animation=fadeIn" alt="Abbas Ali - Artificial Intelligence Graduate" width="100%"/>
+
+<a href="https://github.com/AbbasAli-official">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1200&color=00B8D9&center=true&vCenter=true&width=640&height=40&lines=Machine+Learning+%C2%B7+Deep+Learning;Computer+Vision+%C2%B7+Generative+AI;Seeking+Postgraduate+Studies+%26+Research+in+AI" alt="Typing animation" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/CGPA-3.59%20%2F%204.00-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="CGPA 3.59/4.00"/>
+<img src="https://img.shields.io/badge/BS-Artificial%20Intelligence-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="BS Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/IUB-Bahawalpur%2C%20Pakistan-00B8D9?style=for-the-badge&labelColor=0B1F3A" alt="IUB Bahawalpur"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ ACADEMIC PROFILE ═══════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Academic+Profile" alt="Academic Profile" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="40%" alt=""/>
 </div>
 
 <br/>
 
-<p align="left">
-I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islamia University of Bahawalpur (IUB), Pakistan</strong>, with a <strong>CGPA of 3.59/4.00</strong>. My academic foundation includes Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision. My technical interests span <strong>Machine Learning, Deep Learning, Computer Vision, and Generative AI</strong>, with a focus on developing deeper technical expertise and exploring practical AI applications. Alongside my academic journey, I have contributed to the <strong>Baltikhar Students Organisation (BSO)</strong> in leadership roles as Education Secretary and Media Secretary, and currently serve as Publication Head. These responsibilities have strengthened my experience in student coordination, organisational communication, and community engagement. I am currently focused on pursuing <strong>postgraduate studies and research in Artificial Intelligence</strong>, with the long-term objective of contributing to practical AI solutions through advanced study and research.
+<p align="justify">
+I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islamia University of Bahawalpur (IUB), Pakistan</strong>, with a <strong>CGPA of 3.59/4.00</strong>. My academic foundation includes Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision. My technical interests span <strong>Machine Learning, Deep Learning, Computer Vision, and Generative AI</strong>, with a focus on developing deeper technical expertise and exploring practical AI applications.
+<br/><br/>
+Alongside my studies, I have served the <strong>Baltikhar Students Organisation (BSO)</strong> as Education Secretary and Media Secretary, and currently serve as Publication Head, building experience in student coordination, organisational communication, and community engagement. I am now focused on pursuing <strong>postgraduate studies and research in Artificial Intelligence</strong>, with the long-term objective of contributing to practical AI solutions through advanced study and research.
 </p>
+
+<br/>
+
+<!-- ═══════════════ RESEARCH INTERESTS ═══════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Research+Interests" alt="Research Interests" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="40%" alt=""/>
 </div>
 
-<div align="center">
-
-| Artificial Intelligence | Generative AI | Machine Learning |
-|:---:|:---:|:---:|
-| **Computer Vision** | **Deep Learning** | **Intelligent Systems** |
-
-</div> 
 <br/>
 
+<div align="center">
 
+| 🧠 Artificial Intelligence | ✨ Generative AI | 📊 Machine Learning |
+|:---:|:---:|:---:|
+| **👁️ Computer Vision** | **🔬 Deep Learning** | **⚙️ Intelligent Systems** |
 
+</div>
 
+<br/>
 
+<!-- ═══════════════ TECHNICAL SKILLS ═══════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=520&height=45&lines=Technical+Skills" alt="Technical Skills" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="40%" alt=""/>
 </div>
 
 <br/>
@@ -44,55 +77,63 @@ I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islam
 
 </div>
 
-
 <br/>
 
+<!-- ═══════════════ EDUCATION & CERTIFICATIONS ═══════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=560&height=45&lines=Education+%26+Certifications" alt="Education and Certifications" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="40%" alt=""/>
 </div>
+
+<br/>
 
 <div align="center">
 
 | Qualification | Institution |
 |:--|:--|
-| **BS in Artificial Intelligence** (CGPA 3.59 / 4.00) | The Islamia University of Bahawalpur |
-| **Machine Learning with Python** | IBM / Coursera |
-| **Python for Data Science and AI** | Coursera |
-| **Artificial Intelligence on Microsoft Azure** | Microsoft |
-| **Google AI Essentials** | Google |
-| **Data Analysis with Python** | IBM / Cognitive Class |
+| 🎓 **BS in Artificial Intelligence** (CGPA 3.59 / 4.00) | The Islamia University of Bahawalpur |
+| 📜 **Machine Learning with Python** | IBM / Coursera |
+| 📜 **Python for Data Science and AI** | Coursera |
+| 📜 **Artificial Intelligence on Microsoft Azure** | Microsoft |
+| 📜 **Google AI Essentials** | Google |
+| 📜 **Data Analysis with Python** | IBM / Cognitive Class |
 
 </div>
 
 <br/>
 
+<!-- ═══════════════ HONORS & AWARDS ═══════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=480&height=45&lines=Honors+%26+Awards" alt="Honors and Awards" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="40%" alt=""/>
 </div>
+
+<br/>
 
 <div align="center">
 
 | Recognition | Details |
 |:--|:--|
-| **Prime Minister's Laptop Scheme** | Government of Pakistan, selected on academic merit |
-| **Third Position, University Class Project** | Awarded for a team project, Automatic Hand-Wash System |
+| 🏅 **Prime Minister's Laptop Scheme** | Government of Pakistan, selected on academic merit |
+| 🥉 **Third Position, University Class Project** | Awarded for a team project, Automatic Hand-Wash System |
 
 </div>
 
 <br/>
 
+<!-- ═══════════════ LEADERSHIP & COMMUNITY ═══════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=560&height=45&lines=Leadership+%26+Community" alt="Leadership and Community" />
-</div>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="40%" alt=""/>
 
+<br/><br/>
 
-
-<div align="center">
-
-### Leadership & Community Engagement
-
-**Baltikhar Students Organisation (BSO)**  
-Skardu, Gilgit-Baltistan, Pakistan
+**Baltikhar Students Organisation (BSO)**
+<br/>
+<sub>📍 Skardu, Gilgit-Baltistan, Pakistan</sub>
 
 <br/>
 
@@ -106,46 +147,51 @@ Skardu, Gilgit-Baltistan, Pakistan
 
 <br/>
 
-
-
-
+<!-- ═══════════════ GITHUB ACTIVITY ═══════════════ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=480&height=45&lines=GitHub+Activity" alt="GitHub Activity" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="40%" alt=""/>
+</div>
 
 <br/>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbbasAli-official&bg_color=0D1117&color=C9D1D9&line=00B8D9&point=FFFFFF&area=true&area_color=00B8D9&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbbasAli-official&bg_color=FFFFFF&color=334155&line=00B8D9&point=0B1F3A&area=true&area_color=00B8D9&hide_border=true">
   <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbbasAli-official&bg_color=FFFFFF&color=334155&line=00B8D9&point=0B1F3A&area=true&area_color=00B8D9&hide_border=true" width="95%">
 </picture>
-
 </div>
 
 <br/>
 
-
+<!-- ═══════════════ CONNECT ═══════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=60000&color=00B8D9&center=true&vCenter=true&repeat=false&width=420&height=45&lines=Let's+Connect" alt="Let's Connect" />
-</div>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="40%" alt=""/>
 
-<br/>
+<br/><br/>
 
 <p align="center">
-  Open to research collaborations, academic opportunities,
+  Open to research collaborations, academic opportunities,<br/>
   and professional discussions in Artificial Intelligence.
 </p>
 
-<br/>
+<a href="mailto:AbbasAli.Eng26@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=00B8D9" alt="Email" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/abbasali-aiengineer">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00B8D9" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/AbbasAli-official">
+  <img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=00B8D9" alt="GitHub" />
+</a>
 
-<div align="center">
-  <a href="mailto:AbbasAli.Eng26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=00B8D9" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/abbasali-aiengineer">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00B8D9" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AbbasAli-official">
-    <img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=00B8D9" alt="GitHub" />
-  </a>
 </div>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer&reversal=true" width="100%" alt=""/>
