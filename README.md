@@ -89,8 +89,8 @@ I am an <strong>Artificial Intelligence graduate</strong> from <strong>The Islam
 
 **Baltikhar Students Organisation (BSO)** · Skardu, Pakistan
 
-| Role | Period | Focus |
-|:--|:--:|:--|
+| Role || Focus |
+|:--|:--|
 | **Publication Head** | Leading organizational announcements, educational materials, and communications |
 | **Media Secretary** | Managing digital communications and social media for student engagement |
 | **Education Secretary** | Coordinating academic activities, workshops, and educational programmes |
