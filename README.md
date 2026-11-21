@@ -4,11 +4,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&section=header&text=Abbas%20Ali&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Artificial%20Intelligence%20Graduate" alt="Abbas Ali - Artificial Intelligence Graduate" width="100%"/>
-
-<a href="https://github.com/AbbasAli-official">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1200&color=00B8D9&center=true&vCenter=true&width=640&height=40&lines= Artificial+Intelligence;Machine+Learning+%C2%B7+Deep+Learning;Computer+Vision+%C2%B7+Generative+AI" alt="Typing animation" />
-</a>
-
 </div>
 
 <br/>
