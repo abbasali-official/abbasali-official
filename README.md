@@ -1,6 +1,9 @@
 <!-- Profile repository: AbbasAli-official/AbbasAli-official (must be PUBLIC) -->
 
 <!-- ═══════════════ HERO / HEADER ═══════════════ -->
+<div align="center">
+  <img src="assets/hero.svg" alt="Abbas Ali - AI Graduate" width="100%"/>
+</div>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="t d">
   <title id="t">Abbas Ali - AI Graduate</title>
   <desc id="d">Profile banner: Abbas Ali, AI Graduate, with a typing animation of Artificial Intelligence, Machine Learning, Computer Vision and Generative AI, beside an AI chip illustration.</desc>
