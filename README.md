@@ -116,7 +116,7 @@ Baltikhar Students Organisation (BSO) <br/> <sub>📍 Skardu, Gilgit-Baltistan, 
 
 | Position | Tenure | Key Responsibilities |
 |:--|:--:|:--|
-| **Publication Head** | Dec 2025 – Present | Leading publications, organizational communications, and educational content. |
+| **Publication Head** | Dec 2025 – Dec 2026| Leading publications, organizational communications, and educational content. |
 | **Media Secretary** | Dec 2024 – Dec 2025 | Managing digital media, social media communications, and student engagement. |
 | **Education Secretary** | Mar 2023 – Dec 2024 | Coordinating educational initiatives, academic activities, and student development programmes. |
 
